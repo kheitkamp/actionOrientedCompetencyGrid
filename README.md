@@ -1,4 +1,4 @@
-# KompetenzrasterIT
+# competences computing and IT
 Eine Sammlung von Kompetenzrastern üblicher Tätigkeiten der Fachinformatiker, Fachrichtungen Anwendungsentwicklung und Systemintegration.
 
 Die Ausbildungsverordnung und der Rahmenlehrplan sind sich einig darüber, dass eine Moderne Ausbildung beinhaltet, dass sich die Auszubildenden die mit dem Ausbildungsberuf assoziierten Fachinhalte handlungsbezogen anhand beruflich relevanter Tätigkeiten vermitteln.
