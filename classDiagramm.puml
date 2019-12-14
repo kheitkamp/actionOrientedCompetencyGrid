@@ -1,0 +1,38 @@
+@startuml
+class Competence {
+    description: string [1]
+}
+
+class CompetenceGrid {
+    fieldOfCompetences: string [1]
+}
+
+
+class Curriculum {
+
+}
+Curriculum "many" -- "many" CompetenceGrid : matches
+Curriculum "1" *- "many" Unit : contains
+
+class Instructor extends Person {
+    name: string [*]
+}
+
+class Person {
+    name: string [1]
+}
+
+class Trainee extends Person  {
+    name: string [1]
+    competences: competence [*]
+    enrollments: curriculum [*]
+}
+
+Trainee -- Curriculum : enrolls >
+Trainee -- Exam : committs >
+
+
+@enduml
+@startuml
+testdot
+@enduml
