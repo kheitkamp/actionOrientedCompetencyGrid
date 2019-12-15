@@ -1,38 +1,78 @@
 @startuml
+
+class AlternativeWayToImplement {
+    score: Number [0..1]
+}
+AlternativeWayToImplement "1" -* "1" Documentation
+
 class Competence {
-    description: string [1]
+    description: String [1]
 }
 
 class CompetenceGrid {
-    fieldOfCompetences: string [1]
+    fieldOfCompetences: String [1]
 }
-
+CompetenceGrid "1" *- "1..*" Competence : contains
 
 class Curriculum {
+    name: String [1]
+}
+Curriculum "*" -- "*" CompetenceGrid : matches
+Curriculum "1" *- "1..*" Unit : contains
+
+class Documentation {
+    passed: Boolean
+    mark: String
+    evaluations: Evaluation [*]
+}
+Documentation "1" *- "1" Competence : proofs
+Documentation "*" -- "*" LearningOutcome : matches
+
+class Evaluation {
 
 }
-Curriculum "many" -- "many" CompetenceGrid : matches
-Curriculum "1" *- "many" Unit : contains
+Evaluation "1" *- "*" Documentation : asseses >
 
-class Instructor extends Person {
-    name: string [*]
+class Implementation {
+    representation: image | text | file [*]
+}
+Implementation "1" -* "1" Documentation
+
+class Instructor extends User {
+    evaluate(): Evaluation
+}
+Instructor "1" -- "*" Evaluation : creates >
+
+class LearningOutcome {
+    name: String [1]
 }
 
-class Person {
-    name: string [1]
+class ReflectionOfImplementation {
+    score: Number [0..1]
+}
+ReflectionOfImplementation "1" -* "1" Documentation
+
+class StepByStepInstruction {
+    score: Number [0..1]
+}
+StepByStepInstruction "1" -* "1" Documentation
+
+class Trainee extends User {
+    enroll(): Boolean
+}
+Trainee "1" -- "*" Curriculum : enrolls >
+Trainee "1" -- "*" Documentation : committs >
+Trainee "1" -- "*" Competence : has >
+
+
+class Unit {
+    name: String [1]
+}
+Unit "1" *- "*" LearningOutcome : contains
+
+class User {
+    name: String [1]
+    id: Number [1]
 }
 
-class Trainee extends Person  {
-    name: string [1]
-    competences: competence [*]
-    enrollments: curriculum [*]
-}
-
-Trainee -- Curriculum : enrolls >
-Trainee -- Exam : committs >
-
-
-@enduml
-@startuml
-testdot
 @enduml
