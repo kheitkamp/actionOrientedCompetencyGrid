@@ -1,0 +1,12 @@
+@startuml
+actor Trainee
+Trainee -> System: I want to \ndocument a competence
+System -> Trainee: Prompt for \ndocumented Competence
+Trainee -> System: Identify \nCompetence
+System -> Trainee: Prompt for Implementation, \nStepByStepInstruction, \nAlternativeWayToImplement & \nReflectionOnImplementation
+Trainee -> System: Upload Implementation, \nStepByStepInstruction, \nAlternative way to Implement & \nReflectionOnImplementation
+create Documentation
+System -> Documentation: <<create>> \ncreate (\nCompetence, \nImplementation, \nStepByStepInstruction, \nAlternativeWayToImplement, \nReflectionOnImplementation\n)
+Documentation -> System: Documentation.id
+System -> Trainee: Confirm \nDocumentation being created
+@enduml

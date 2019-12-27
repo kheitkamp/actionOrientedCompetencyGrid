@@ -1,0 +1,21 @@
+@startuml
+:Documentation]
+fork
+:upload
+Implementation;
+fork again
+:upload
+StepByStepInstruction;
+fork again
+:upload
+AlternativeWayOfImplementation;
+fork again
+:upload
+ReflectionOnImplementation;
+end fork
+:submit;
+-[dashed]-> waiting for
+Instructors Evaluation;
+:perceive Evaluation;
+:edit;
+@enduml

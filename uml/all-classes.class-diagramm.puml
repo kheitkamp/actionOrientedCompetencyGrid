@@ -29,12 +29,13 @@ Documentation "1" *- "1" Competence : proofs
 Documentation "*" -- "*" LearningOutcome : matches
 
 class Evaluation {
-
+    evaluationNotes: String [*]
 }
 Evaluation "1" *- "*" Documentation : asseses >
 
 class Implementation {
     representation: image | text | file [*]
+    score: Number [0..1]
 }
 Implementation "1" -* "1" Documentation
 
@@ -47,10 +48,10 @@ class LearningOutcome {
     name: String [1]
 }
 
-class ReflectionOfImplementation {
+class ReflectionOnImplementation {
     score: Number [0..1]
 }
-ReflectionOfImplementation "1" -* "1" Documentation
+ReflectionOnImplementation "1" -* "1" Documentation
 
 class StepByStepInstruction {
     score: Number [0..1]
