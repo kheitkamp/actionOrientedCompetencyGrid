@@ -1,21 +1,28 @@
 @startuml
 
 class AlternativeWayToImplement {
+    description: String [1]
     score: Number [0..1]
+    id: [1]
 }
 AlternativeWayToImplement "1" -* "1" Documentation
 
 class Competence {
-    description: String [1]
+    iCan: String [1]
+    id: String [1]
 }
+
+Competence "1..*" -- "1..*" LearningOutcome : matches
 
 class CompetenceGrid {
     fieldOfCompetences: String [1]
+    id: String [1]
 }
 CompetenceGrid "1" *- "1..*" Competence : contains
 
 class Curriculum {
     name: String [1]
+    id: String [1]
 }
 Curriculum "*" -- "*" CompetenceGrid : matches
 Curriculum "1" *- "1..*" Unit : contains
@@ -24,17 +31,19 @@ class Documentation {
     passed: Boolean
     mark: String
     evaluations: Evaluation [*]
+    id: String [1]
 }
 Documentation "1" *- "1" Competence : proofs
 Documentation "*" -- "*" LearningOutcome : matches
 
 class Evaluation {
-
+    id: String [1]
 }
-Evaluation "1" *- "*" Documentation : asseses >
+Evaluation "1" *- "*" Documentation : assesses >
 
 class Implementation {
-    representation: image | text | file [*]
+    description: image | text | file [*]
+    id: String [1]
 }
 Implementation "1" -* "1" Documentation
 
@@ -45,15 +54,20 @@ Instructor "1" -- "*" Evaluation : creates >
 
 class LearningOutcome {
     name: String [1]
+    id: String [1]
 }
 
 class ReflectionOfImplementation {
+    description: String [1]
     score: Number [0..1]
+    id: String [1]
 }
 ReflectionOfImplementation "1" -* "1" Documentation
 
 class StepByStepInstruction {
+    description: String [1]
     score: Number [0..1]
+    id: String [1]
 }
 StepByStepInstruction "1" -* "1" Documentation
 
@@ -67,6 +81,7 @@ Trainee "1" -- "*" Competence : has >
 
 class Unit {
     name: String [1]
+    id: String [1]
 }
 Unit "1" *- "*" LearningOutcome : contains
 
