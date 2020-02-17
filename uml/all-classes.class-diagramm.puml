@@ -38,11 +38,13 @@ Documentation "*" -- "*" LearningOutcome : matches
 
 class Evaluation {
     id: String [1]
+    evaluationNotes: String [*]
 }
 Evaluation "1" *- "*" Documentation : assesses >
 
 class Implementation {
     description: image | text | file [*]
+    score: Number [0..1]
     id: String [1]
 }
 Implementation "1" -* "1" Documentation
@@ -57,12 +59,12 @@ class LearningOutcome {
     id: String [1]
 }
 
-class ReflectionOfImplementation {
+class ReflectionOnImplementation {
     description: String [1]
     score: Number [0..1]
     id: String [1]
 }
-ReflectionOfImplementation "1" -* "1" Documentation
+ReflectionOnImplementation "1" -* "1" Documentation
 
 class StepByStepInstruction {
     description: String [1]
