@@ -5,7 +5,7 @@ class AlternativeWayToImplement {
     score: Number [0..1]
     id: [1]
 }
-AlternativeWayToImplement "1" -* "1" Documentation
+AlternativeWayToImplement "1" -* "1" Documentation : contains
 
 class Competence {
     iCan: String [1]
@@ -58,6 +58,20 @@ class LearningOutcome {
     name: String [1]
     id: String [1]
 }
+
+class LiteratureList {
+    id: String [1]
+}
+LiteratureList "1" *- "*" LiteratureListEntry : contains >
+
+class LiteratureListEntry {
+    title: String [1]
+    description: String [1]
+    sources: String [*]
+    id: String [1]
+}
+LiteratureListEntry "1..*" -- "1..*" Competence : explains >
+
 
 class ReflectionOnImplementation {
     description: String [1]
