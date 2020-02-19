@@ -23,6 +23,62 @@
       "explainsCompetences": [""]
     },
     {
+      "id": "lle_rechtschreibung",
+      "title": "Rechtschreibung",
+      "description": "Rechtschreibfehler in einer Präsentation sind peinlich. Autokorrektur und Software-Wörterbücher helfen, diese zu vermeiden, können aber auch selber Fehler produzieren. Da die eigenen Fehler häufig überlesen werden, ist es wichtig, jemand anderes einmal Korrekturlesen zu lassen – das ist auch eine gängige Praxis überall dort, wo Texte im professionellen Rahmen veröffentlicht werden. Was viele nicht beachten: Die richtige Verwendung von Leerzeichen ist auch ein Teil der Rechtschreibung. Wer es ernst mit der Rechtschreibung nimmt, kann sich in die Grundlagen der Typografie einarbeiten.",
+      "sources": ["https://www.duden.de/hilfe/rechtschreibung", "https://www.langner-beratung.de/downloads/klassische-typografiefehler.html"],
+      "explainsCompetences": ["c_rechtschreibfehlerVermeiden"]
+    },
+    {
+      "id": "lle_grammatik",
+      "title": "Grammatik",
+      "description": "Eine korrekte Grammatik kann darüber entscheiden, ob sich Sender und Empfänger richtig verstehen. Leider gibt es noch wenig zuverlässige Software, die die Grammatik gut korrigieren kann. Hier hilft nur viel üben und kompetente Hilfe beim Korrekturlesen zu suchen. Oder sich durch trockene Grammatik Regelwerke zu quälen.",
+      "sources": [""],
+      "explainsCompetences": ["https://online-lernen.levrai.de/deutsch-uebungen/regeln_der_grammatik.htm"]
+    },
+    {
+      "id": "lle_",
+      "title": "",
+      "description": "",
+      "sources": [""],
+      "explainsCompetences": [""]
+    },
+    {
+      "id": "lle_",
+      "title": "",
+      "description": "",
+      "sources": [""],
+      "explainsCompetences": [""]
+    },
+    {
+      "id": "lle_",
+      "title": "",
+      "description": "",
+      "sources": [""],
+      "explainsCompetences": [""]
+    },
+    {
+      "id": "lle_",
+      "title": "",
+      "description": "",
+      "sources": [""],
+      "explainsCompetences": [""]
+    },
+    {
+      "id": "lle_",
+      "title": "",
+      "description": "",
+      "sources": [""],
+      "explainsCompetences": [""]
+    },
+    {
+      "id": "lle_",
+      "title": "",
+      "description": "",
+      "sources": [""],
+      "explainsCompetences": [""]
+    },
+    {
       "id": "lle_",
       "title": "",
       "description": "",
