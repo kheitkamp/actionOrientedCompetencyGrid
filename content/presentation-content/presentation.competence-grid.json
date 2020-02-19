@@ -1,240 +1,240 @@
 {
   "fieldOfCompetences": "presentation",
-  "id": "",
+  "id": "foc_presentation",
   "competences": [
     {
-      "iCan": "frei Sprechen",
-      "id": "",
+      "iCan": "frei sprechen",
+      "id": "c_freiSprechen",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "mich abwechslungsreich ausdrücken",
-      "id": "",
+      "id": "c_michAbwechslungsreichAusdruecken",
       "matchesLearningOutcomesById": []
     },
     {
-      "iCan": "grammatikalisch korrekt ausdrücken",
-      "id": "",
+      "iCan": "mich grammatikalisch korrekt ausdrücken",
+      "id": "c_michGrammatikalischKorrektAusdruecken",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Karteikarten als Hilfe verwenden",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "deutlich sprechen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "gut betonen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "eine förmliche Sprache verwenden / auf Umgangssprache verzichten",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Überleitungssätze angemessen verwenden",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Blickkontakt halten",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "die Zuhörer einbeziehen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "das Thema nennen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "den Vortrag sinnvoll gliedern",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "die Inhalte sachlich / fachlich korrekt wiedergeben",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "die Inhalte verständlich und nachvollziehbar wiedergeben",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Fachbegriffe korrekt verwenden",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Fachbegriffe erklären",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Inhalte zusammenfassen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "ein Fazit ziehen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "eigene Erfahrungen wiedergeben",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "den Sachverhalt in übergreifende Zusammenhänge einordnen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "meine Aussagen mit zuverlässigen Quellenangaben belegen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "wesentliche von unwesentlichen Informationen unterscheiden",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Zusammenhänge herstellen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Schlussfolgerungen ziehen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "mein eigenes Vorgehen reflektieren",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Folien durch die Verwendung von Stichpunkten übersichtlicher gestalten",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Regeln des Chunking (Kurzzeitgedächtnis) beachten",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "eine gut lesbare Schriftgröße verwenden",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "einen gut lesbaren Schriftschnitt / Font verwenden",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "ein übersichtliches Layout erstellen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Rechtschreibfehler vermeiden",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Aussagen durch Bilder/Grafiken/Diagramme unterstützen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "ein einheitliches Layout verwenden",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "überladene Folien vermeiden / Folien auf eine Kernaussage reduzieren",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "Animationen und Effekte so verwenden, dass sie den Inhalt unterstützen und nicht überladen",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "die vorgegebene Zeit einhalten",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "durch anregende Elemente / Unterbrechungen die Aufmerksamkeit des Publikums aufrecht erhalten",
-      "id": "",
+      "id": "c_",
+      "matchesLearningOutcomesById": []
+    },
+    {
+      "iCan": "Storytelling verwenden",
+      "id": "c_storytellinVerwenden",
+      "matchesLearningOutcomesById": []
+    },
+    {
+      "iCan": "suggestive Fragen zielführend einsetzen",
+      "id": "c_suggestiveFragenZielfuehrendEinsetzen",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     },
     {
       "iCan": "",
-      "id": "",
-      "matchesLearningOutcomesById": []
-    },
-    {
-      "iCan": "",
-      "id": "",
-      "matchesLearningOutcomesById": []
-    },
-    {
-      "iCan": "",
-      "id": "",
+      "id": "c_",
       "matchesLearningOutcomesById": []
     }
   ]
