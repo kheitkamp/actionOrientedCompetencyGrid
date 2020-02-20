@@ -5,7 +5,7 @@
       "id": "lle_freiesSprechen",
       "title": "Freies Sprechen",
       "description": "Wenn wir einen Vortrag so gut beherrschen, dass wir nicht mehr auf unsere Moderationskärtchen schauen müssen, um ihn flüssig vortragen zu können, wirken wir gegenüber dem Publikum nicht nur kompetenter sondern können auch Blickkontakt aufbauen. Dadurch wirken wir gleich viel sympatischer und können auch leichter auf unvorhergesehene Situationen eingehen ohne gleich den Faden zu verlieren.",
-      "sources": ["https://www.argumentorik.com/blog/allgemeine-rhetorik-tipps/frei-reden-ohne-skript-3-techniken/"],
+      "sources": ["https://www.argumentorik.com/blog/allgemeine-rhetorik-tipps/frei-reden-ohne-skript-3-techniken/", "http://rhetorikpirat.de/frei-vortragen-oder-ablesen-wie-sollte-man-eine-rede-halten/"],
       "explainsCompetences": ["c_freiSprechen", "c_storytellingVerwenden"]
     },
     {
@@ -13,7 +13,7 @@
       "title": "Rhetorik",
       "description": "Für einen erfolgreichen Vortrag ist es hilfreich, wenn wir verschiedene rhetorische Techniken gut beherrschen. Neben einer abwechslungsreichen Ausdrucksweise kommen hier Methoden wie suggestive Fragen, authentisches Auftreten, Vermeidung von Füllwörtern etc.",
       "sources": ["https://www.lernen.net/artikel/rhetorik-lernen-typische-fehler-tipps-uebungen-378/"],
-      "explainsCompetences": ["c_suggestiveFragenZielfuehrendEinsetzen", "c_michAbwechslungsreichAusdruecken", "c_michGrammatikalischKorrektAusdruecken" ]
+      "explainsCompetences": ["c_suggestiveFragenZielfuehrendEinsetzen", "http://rhetorikpirat.de/rhetorische-mittel-die-wuerzmischung-fuer-deine-rede/", "c_michAbwechslungsreichAusdruecken", "c_michGrammatikalischKorrektAusdruecken" ]
     },
     {
       "id": "lle_chunking",
@@ -33,22 +33,22 @@
       "id": "lle_grammatik",
       "title": "Grammatik",
       "description": "Eine korrekte Grammatik kann darüber entscheiden, ob sich Sender und Empfänger richtig verstehen. Leider gibt es noch wenig zuverlässige Software, die die Grammatik gut korrigieren kann. Hier hilft nur viel üben und kompetente Hilfe beim Korrekturlesen zu suchen. Oder sich durch trockene Grammatik Regelwerke zu quälen.",
-      "sources": [""],
-      "explainsCompetences": ["https://online-lernen.levrai.de/deutsch-uebungen/regeln_der_grammatik.htm"]
+      "sources": ["https://online-lernen.levrai.de/deutsch-uebungen/regeln_der_grammatik.htm"],
+      "explainsCompetences": ["c_michGrammatikalischKorrektAusdruecken"]
     },
     {
-      "id": "lle_",
-      "title": "",
-      "description": "",
-      "sources": [""],
-      "explainsCompetences": [""]
+      "id": "lle_karteikarten",
+      "title": "Karteikarten",
+      "description": "Karteikarten können ein gutes Backup sein, für den Fall das man beim Vortrag den Faden verliert. Oft vertreibt alleine die Gewissheit, dieses Backup dabei zu haben einen großen Teil des Lampenfiebers. Zudem gibt man den Händen einen Halt, was gerade in nervösen Situationen sehr beruhigend wirken kann.",
+      "sources": ["http://rhetorikpirat.de/redenhalten-mit-karteikarten-tipps-wie-es-gelingt/"],
+      "explainsCompetences": ["c_karteikartenAlsHilfeVerwenden"]
     },
     {
-      "id": "lle_",
-      "title": "",
+      "id": "lle_blickkontakt",
+      "title": "Blickkontakt",
       "description": "",
-      "sources": [""],
-      "explainsCompetences": [""]
+      "sources": ["http://rhetorikpirat.de/__trashed/"],
+      "explainsCompetences": ["c_blickkontaktHalten"]
     },
     {
       "id": "lle_",

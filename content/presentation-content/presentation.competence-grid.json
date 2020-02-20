@@ -19,8 +19,8 @@
     },
     {
       "iCan": "Karteikarten als Hilfe verwenden",
-      "id": "c_",
-      "matchesLearningOutcomesById": []
+      "id": "c_karteikartenAlsHilfeVerwenden",
+      "matchesLearningOutcomesById": [""]
     },
     {
       "iCan": "deutlich sprechen",
@@ -44,7 +44,7 @@
     },
     {
       "iCan": "Blickkontakt halten",
-      "id": "c_",
+      "id": "c_blickkontaktHalten",
       "matchesLearningOutcomesById": []
     },
     {
