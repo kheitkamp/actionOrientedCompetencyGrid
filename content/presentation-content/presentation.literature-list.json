@@ -20,7 +20,7 @@
       "description": "Chunking – auch bekannt als \"Millersche Zahl\", ist ein Begriff, der vor allem durch eine psychologische Untersuchung der Leistungsfähigkeit des Kurzzeitgedächtnisses Bekanntheit erlangte. Jegliche Informationen, die den Weg in unser Langzeitgedächtnis finden sollen, müssen zunächst erfolgreich vom (Ultra)Kurzzeitgedächtnis verarbeitet werden. Es ist daher hilfreich, wenn wir in unseren Vorträgen die Leistungsfähigkeiten des Kurzzeitgedächtnisses richtig einschätzen können.",
       "title": "Chunking – Millersche Zahl",
       "sources": ["http://www.kommdesign.de/texte/gedaechtnisspanne.htm", "https://de.wikipedia.org/wiki/Millersche_Zahl"],
-      "explainsCompetences": [""]
+      "explainsCompetences": ["c_regelnDesChunkingBeachten"]
     },
     {
       "id": "lle_rechtschreibung",
@@ -51,10 +51,10 @@
       "explainsCompetences": ["c_blickkontaktHalten"]
     },
     {
-      "id": "lle_",
-      "title": "",
-      "description": "",
-      "sources": [""],
+      "id": "lle_Lesbarkeit",
+      "title": "Lesbarkeit",
+      "description": "Ein typischer Anfängerfehler ist es, dass versucht wird, bei der Wahl der Schriftart die eigene Kreativität möglichst prominent zum Ausdruck zu bringen. Natürlich ist es richtig, dass eine langweilige Schriftwahl die Chance vergibt, in diesem Punkt positiv aufzufallen. Allerdings sollte man bei der Wahl der Schrift in Bezug auf Farbe, Größe und Font vorsichtig vorgehen. Ein übertriebenes Vorgehen kann schnell verwirren und vor allem die Lesbarkeit negativ beeinflussen – und: in erster Linie soll das geschriebene ja gut gelesen werden können. ",
+      "sources": ["https://t3n.de/news/powerpoint-schrift-1083531/"],
       "explainsCompetences": [""]
     },
     {
