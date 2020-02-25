@@ -63,6 +63,7 @@ class LiteratureList {
     id: String [1]
 }
 LiteratureList "1" *- "*" LiteratureListEntry : contains >
+LiteratureList "1" *- "1" CompetenceGrid : belongsTo >
 
 class LiteratureListEntry {
     title: String [1]

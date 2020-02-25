@@ -1,5 +1,6 @@
 {
-  "id": "",
+  "id": "ll_presentation",
+  "belongsTo": "foc_presentation",
   "containedLiteratureListEntries": [
     {
       "id": "lle_freiesSprechen",
@@ -19,7 +20,7 @@
       "id": "lle_chunking",
       "description": "Chunking – auch bekannt als \"Millersche Zahl\", ist ein Begriff, der vor allem durch eine psychologische Untersuchung der Leistungsfähigkeit des Kurzzeitgedächtnisses Bekanntheit erlangte. Jegliche Informationen, die den Weg in unser Langzeitgedächtnis finden sollen, müssen zunächst erfolgreich vom (Ultra)Kurzzeitgedächtnis verarbeitet werden. Es ist daher hilfreich, wenn wir in unseren Vorträgen die Leistungsfähigkeiten des Kurzzeitgedächtnisses richtig einschätzen können.",
       "title": "Chunking – Millersche Zahl",
-      "sources": ["http://www.kommdesign.de/texte/gedaechtnisspanne.htm", "https://de.wikipedia.org/wiki/Millersche_Zahl"],
+      "sources": ["http://www.kommdesign.de/texte/gedaechtnisspanne.htm", "https://de.wikipedia.org/wiki/Millersche_Zahl", "c_ueberladeneFolienVermeidenFolienAufEineKernaussageReduzieren"],
       "explainsCompetences": ["c_regelnDesChunkingBeachten"]
     },
     {
@@ -51,39 +52,39 @@
       "explainsCompetences": ["c_blickkontaktHalten"]
     },
     {
-      "id": "lle_Lesbarkeit",
+      "id": "lle_lesbarkeit",
       "title": "Lesbarkeit",
       "description": "Ein typischer Anfängerfehler ist es, dass versucht wird, bei der Wahl der Schriftart die eigene Kreativität möglichst prominent zum Ausdruck zu bringen. Natürlich ist es richtig, dass eine langweilige Schriftwahl die Chance vergibt, in diesem Punkt positiv aufzufallen. Allerdings sollte man bei der Wahl der Schrift in Bezug auf Farbe, Größe und Font vorsichtig vorgehen. Ein übertriebenes Vorgehen kann schnell verwirren und vor allem die Lesbarkeit negativ beeinflussen – und: in erster Linie soll das geschriebene ja gut gelesen werden können. ",
       "sources": ["https://t3n.de/news/powerpoint-schrift-1083531/"],
-      "explainsCompetences": [""]
+      "explainsCompetences": ["c_eineGutLesbareSchriftgroesseVerwenden", "c_einenGutLesbarenSchriftschnittFontVerwenden"]
     },
     {
-      "id": "lle_",
-      "title": "",
-      "description": "",
-      "sources": [""],
-      "explainsCompetences": [""]
+      "id": "lle_layout",
+      "title": "Layout",
+      "description": "Das Layout der Folien hat einen großen Einfluss darauf, ob das Publikum dem Vortrag gut folgen kann. Idealerweise unterstützt es den Vortrag ohne durch zu große Aufdringlichkeit vom Inhalt abzulenken.",
+      "sources": ["https://studybees.de/magazin/fuenf-tipps-fuer-besseres-design-in-powerpoint/", "https://studybees.de/magazin/praesentieren-die-takahashi-methode/", "https://www.ethos3.com/design-tips/the-godin-method/"],
+      "explainsCompetences": ["c_einUebersichtlichesLayoutErstellen", "c_aussagenDurchBilderGrafikenDiagrammeUnterstuetzen", "c_einEinheitlichesLayoutVerwenden", "c_ueberladeneFolienVermeidenFolienAufEineKernaussageReduzieren", "c_animationenUndEffekteSoVerwendenDassSieDenInhaltUnterstuetzenUndNichtUeberladen"]
     },
     {
-      "id": "lle_",
-      "title": "",
-      "description": "",
-      "sources": [""],
-      "explainsCompetences": [""]
+      "id": "lle_bilderGrafikenDiagramme",
+      "title": "Bilder, Grafiken, Diagramme",
+      "description": "Textlastige Folien verleiten das Publikum dazu, dem Text auf den Folien mehr Aufmerksamkeit zu schenken, als dem was die Vortragende / der Vortragende erzählt. Eine gute Möglichkeit, das gesprochene Wort zu unterstützen, sind Bilder, Grafiken und Diagramme. Wir können sie leichter parallen zum Zuhören verarbeiten und sie können eine viel höhere Informationsdichte aufweisen, als geschriebener Text.",
+      "sources": ["https://www.ethos3.com/design-tips/the-godin-method/", "http://www.presentationworld.de/richtig-praesentieren-mit-powerpoint/grafiken-in-powerpoint/grafiken.php", "https://www.business-netz.com/Tech-Tricks/PowerPoint-Grafiken"],
+      "explainsCompetences": ["c_aussagenDurchBilderGrafikenDiagrammeUnterstuetzen"]
     },
     {
-      "id": "lle_",
-      "title": "",
-      "description": "",
-      "sources": [""],
-      "explainsCompetences": [""]
+      "id": "lle_redezeit",
+      "title": "Redezeit",
+      "description": "In der Regel steht für einen Vortrag nur eine bestimmte Zeit zur Verfügung. Es gibt eine Vielzahl an Tipps, die helfen, die Redezeit einzuhalten ohne dabei den Vortrag zu kurz zu planen.",
+      "sources": ["https://vortrags.coach/redezeit-einhalten-das-beste-tool-die-minutenseite/", "https://it-berufe-podcast.de/einhaltung-der-vortragszeit-15-minuten-bei-der-projektpraesentation/", "https://www.akademie.de/wissen/powerpoint-vortragszeit-stoppen"],
+      "explainsCompetences": ["c_dieVorgegebeneZeitEinhalten", "https://seths.blog/2018/07/generous-assertions/"]
     },
     {
-      "id": "lle_",
-      "title": "",
-      "description": "",
-      "sources": [""],
-      "explainsCompetences": [""]
+      "id": "lle_aufmerksamkeitGenerieren",
+      "title": "Aufmerksamkeit generieren",
+      "description": "Natürlich ist die eigentliche Aufgabe einer Präsentation, Inhalte und Fakten zu vermitteln. Allerdings können kleine unterhaltsame Elemente den Inhalt insofern unterstützen, als dass sie die Aufmerksamkeit des Publikums in die gewünschte Richtung lenken. Es ist nachgewiesen – und dazu auch leicht nachvollziehbar, dass die Aufmerksamkeit, die wir einer Sache schenken, steigt, entscheidend dafür ist, dass wir deren Inhalt verstehen. Oder umgekehrt: wenn wir nicht die Relevanz hinter einem Vortrag erkennen können, sperrt sich unser Gehirn automatisch gegen die Aufnahme der Informationen.",
+      "sources": ["https://www.studienscheiss.de/praesentation-vortrag-beginnen/"],
+      "explainsCompetences": ["c_durchAnregendeElementeUnterbrechungenDieAufmerksamkeitDesPublikumsAufrechtErhalten", "c_storytellingVerwenden"]
     },
     {
       "id": "lle_",
