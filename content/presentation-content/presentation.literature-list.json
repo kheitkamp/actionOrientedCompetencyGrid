@@ -55,43 +55,64 @@
       "id": "lle_lesbarkeit",
       "title": "Lesbarkeit",
       "description": "Ein typischer Anfängerfehler ist es, dass versucht wird, bei der Wahl der Schriftart die eigene Kreativität möglichst prominent zum Ausdruck zu bringen. Natürlich ist es richtig, dass eine langweilige Schriftwahl die Chance vergibt, in diesem Punkt positiv aufzufallen. Allerdings sollte man bei der Wahl der Schrift in Bezug auf Farbe, Größe und Font vorsichtig vorgehen. Ein übertriebenes Vorgehen kann schnell verwirren und vor allem die Lesbarkeit negativ beeinflussen – und: in erster Linie soll das geschriebene ja gut gelesen werden können. ",
-      "sources": ["https://t3n.de/news/powerpoint-schrift-1083531/"],
+      "sources": ["Duarte, N. (2009), slide:ology (trans. D. Heyman-Reder), Heidelberg, dpunkt.Verlag, pp. 140–155", "https://t3n.de/news/powerpoint-schrift-1083531/"],
       "explainsCompetences": ["c_eineGutLesbareSchriftgroesseVerwenden", "c_einenGutLesbarenSchriftschnittFontVerwenden"]
     },
     {
       "id": "lle_layout",
       "title": "Layout",
       "description": "Das Layout der Folien hat einen großen Einfluss darauf, ob das Publikum dem Vortrag gut folgen kann. Idealerweise unterstützt es den Vortrag ohne durch zu große Aufdringlichkeit vom Inhalt abzulenken.",
-      "sources": ["https://studybees.de/magazin/fuenf-tipps-fuer-besseres-design-in-powerpoint/", "https://studybees.de/magazin/praesentieren-die-takahashi-methode/", "https://www.ethos3.com/design-tips/the-godin-method/"],
+      "sources": ["Duarte, N. (2009), slide:ology (trans. D. Heyman-Reder), Heidelberg, dpunkt.Verlag, pp. 81–139", "Reynolds, G. (2013) Zen oder die Kunst der Präsentation, 2nd edn, Heidelberg, dpunkt.Verlag, pp. 131–185", "https://studybees.de/magazin/fuenf-tipps-fuer-besseres-design-in-powerpoint/", "https://studybees.de/magazin/praesentieren-die-takahashi-methode/", "https://www.ethos3.com/design-tips/the-godin-method/"],
       "explainsCompetences": ["c_einUebersichtlichesLayoutErstellen", "c_aussagenDurchBilderGrafikenDiagrammeUnterstuetzen", "c_einEinheitlichesLayoutVerwenden", "c_ueberladeneFolienVermeidenFolienAufEineKernaussageReduzieren", "c_animationenUndEffekteSoVerwendenDassSieDenInhaltUnterstuetzenUndNichtUeberladen"]
+    },
+    {
+      "id": "lle_konsistenz",
+      "title": "Konsistenz",
+      "description": "Die Verwendung von Designvorlagen führt zu einem einheitlichen Foliendesign und gibt dem Publikum Orientierung.",
+      "sources": ["Duarte, N. (2009), slide:ology (trans. D. Heyman-Reder), Heidelberg, dpunkt.Verlag, pp. 7, 30–61, 203–215"],
+      "explainsCompetences": ["c_einEinheitlichesLayoutVerwenden"]
     },
     {
       "id": "lle_bilderGrafikenDiagramme",
       "title": "Bilder, Grafiken, Diagramme",
-      "description": "Textlastige Folien verleiten das Publikum dazu, dem Text auf den Folien mehr Aufmerksamkeit zu schenken, als dem was die Vortragende / der Vortragende erzählt. Eine gute Möglichkeit, das gesprochene Wort zu unterstützen, sind Bilder, Grafiken und Diagramme. Wir können sie leichter parallen zum Zuhören verarbeiten und sie können eine viel höhere Informationsdichte aufweisen, als geschriebener Text.",
-      "sources": ["https://www.ethos3.com/design-tips/the-godin-method/", "http://www.presentationworld.de/richtig-praesentieren-mit-powerpoint/grafiken-in-powerpoint/grafiken.php", "https://www.business-netz.com/Tech-Tricks/PowerPoint-Grafiken"],
+      "description": "Das Publikum kann nur entweder Ihre Folien lesen oder Ihnen zuhören, aber nicht beides gleichzeitig. Also fragen Sie sich: Ist das Zuhören wichtiger, oder ist das Lesen wirkungsvoller? (Duarte 2009, p. 7)",
+      "sources": ["Duarte, N. (2009), slide:ology (trans. D. Heyman-Reder), Heidelberg, dpunkt.Verlag, pp. 7, 30–61, 157–175", "Reynolds, G. (2013) Zen oder die Kunst der Präsentation, 2nd edn, Heidelberg, dpunkt.Verlag, pp. 144–159", "https://www.ethos3.com/design-tips/the-godin-method/", "http://www.presentationworld.de/richtig-praesentieren-mit-powerpoint/grafiken-in-powerpoint/grafiken.php", "https://www.business-netz.com/Tech-Tricks/PowerPoint-Grafiken"],
       "explainsCompetences": ["c_aussagenDurchBilderGrafikenDiagrammeUnterstuetzen"]
     },
     {
       "id": "lle_redezeit",
       "title": "Redezeit",
       "description": "In der Regel steht für einen Vortrag nur eine bestimmte Zeit zur Verfügung. Es gibt eine Vielzahl an Tipps, die helfen, die Redezeit einzuhalten ohne dabei den Vortrag zu kurz zu planen.",
-      "sources": ["https://vortrags.coach/redezeit-einhalten-das-beste-tool-die-minutenseite/", "https://it-berufe-podcast.de/einhaltung-der-vortragszeit-15-minuten-bei-der-projektpraesentation/", "https://www.akademie.de/wissen/powerpoint-vortragszeit-stoppen", "https://seths.blog/2018/07/generous-assertions/"],
+      "sources": ["Reynolds, G. (2013) Zen oder die Kunst der Präsentation, 2nd edn, Heidelberg, dpunkt.Verlag, pp. 66", "https://vortrags.coach/redezeit-einhalten-das-beste-tool-die-minutenseite/", "https://it-berufe-podcast.de/einhaltung-der-vortragszeit-15-minuten-bei-der-projektpraesentation/", "https://www.akademie.de/wissen/powerpoint-vortragszeit-stoppen", "https://seths.blog/2018/07/generous-assertions/"],
       "explainsCompetences": ["c_dieVorgegebeneZeitEinhalten"]
     },
     {
       "id": "lle_aufmerksamkeitGenerieren",
       "title": "Aufmerksamkeit generieren",
       "description": "Natürlich ist die eigentliche Aufgabe einer Präsentation, Inhalte und Fakten zu vermitteln. Allerdings können kleine unterhaltsame Elemente den Inhalt insofern unterstützen, als dass sie die Aufmerksamkeit des Publikums in die gewünschte Richtung lenken. Es ist nachgewiesen – und dazu auch leicht nachvollziehbar, dass die Aufmerksamkeit, die wir einer Sache schenken, steigt, entscheidend dafür ist, dass wir deren Inhalt verstehen. Oder umgekehrt: wenn wir nicht die Relevanz hinter einem Vortrag erkennen können, sperrt sich unser Gehirn automatisch gegen die Aufnahme der Informationen.",
-      "sources": ["https://www.studienscheiss.de/praesentation-vortrag-beginnen/"],
+      "sources": ["https://www.studienscheiss.de/praesentation-vortrag-beginnen/", "Reynolds, G. (2013) Zen oder die Kunst der Präsentation, 2nd edn, Heidelberg, dpunkt.Verlag, pp. 154–155"],
       "explainsCompetences": ["c_durchAnregendeElementeUnterbrechungenDieAufmerksamkeitDesPublikumsAufrechtErhalten", "c_storytellingVerwenden"]
     },
     {
-      "id": "lle_",
-      "title": "",
-      "description": "",
-      "sources": [""],
-      "explainsCompetences": [""]
+      "id": "lle_storytelling",
+      "title": "Storytelling",
+      "description": "Erzählungen sind ein wichtiges Mittel, um das Publikum zu fesseln und auf die Bedürfnisse der Menschen nach Logik, Struktur und Emotionen einzugehen. Menschen erinnern sich an Erfahrungen am ehesten in Form von Geschichten; mit Hilfe einer Erzählstruktur könne wir am besten lernen (Reynolds 2013).",
+      "sources": ["Reynolds, G. (2013) Zen oder die Kunst der Präsentation, 2nd edn, Heidelberg, dpunkt.Verlag, pp. 77–109"],
+      "explainsCompetences": ["c_storytellingVerwenden"]
+    },
+    {
+      "id": "lle_reduktion",
+      "title": "Reduktion",
+      "description": "Wenn wir uns auf eine Kernaussage reduzieren, können wir den Impakt dieser einzelnen Aussage steigern, als wenn sie konkurrierend zu anderen steht. Es ist also wichtig, sich die wichtigsten Punkte herauszusuchen und den Vortrag um diese aufzubauen. Ansonsten laufen wir Gefahr uns zu verzetteln und nicht die uns wichtigen Punkte transportiert zu bekommen.",
+      "sources": ["Reynolds, G. (2013) Zen oder die Kunst der Präsentation, 2nd edn, Heidelberg, dpunkt.Verlag, pp. 115–129 & 160–162", "Duarte, N. (2009), slide:ology (trans. D. Heyman-Reder), Heidelberg, dpunkt.Verlag, pp. 64–77"],
+      "explainsCompetences": ["c_ueberladeneFolienVermeidenFolienAufEineKernaussageReduzieren"]
+    },
+    {
+      "id": "lle_zielgruppeUndPublikum",
+      "title": "Zielgruppe und Publikum",
+      "description": "Wenn wir uns auf eine Kernaussage reduzieren, können wir den Impakt dieser einzelnen Aussage steigern, als wenn sie konkurrierend zu anderen steht. Es ist also wichtig, sich die wichtigsten Punkte herauszusuchen und den Vortrag um diese aufzubauen. Ansonsten laufen wir Gefahr uns zu verzetteln und nicht die uns wichtigen Punkte transportiert zu bekommen.",
+      "sources": ["Duarte, N. (2009), slide:ology (trans. D. Heyman-Reder), Heidelberg, dpunkt.Verlag, pp. 14–17", "https://www.chimpify.de/marketing/buyer-persona/"],
+      "explainsCompetences": ["c_zielgruppengerechtPraesentieren"]
     }
   ]
 }
