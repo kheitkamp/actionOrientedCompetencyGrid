@@ -76,8 +76,8 @@
       "id": "lle_redezeit",
       "title": "Redezeit",
       "description": "In der Regel steht für einen Vortrag nur eine bestimmte Zeit zur Verfügung. Es gibt eine Vielzahl an Tipps, die helfen, die Redezeit einzuhalten ohne dabei den Vortrag zu kurz zu planen.",
-      "sources": ["https://vortrags.coach/redezeit-einhalten-das-beste-tool-die-minutenseite/", "https://it-berufe-podcast.de/einhaltung-der-vortragszeit-15-minuten-bei-der-projektpraesentation/", "https://www.akademie.de/wissen/powerpoint-vortragszeit-stoppen"],
-      "explainsCompetences": ["c_dieVorgegebeneZeitEinhalten", "https://seths.blog/2018/07/generous-assertions/"]
+      "sources": ["https://vortrags.coach/redezeit-einhalten-das-beste-tool-die-minutenseite/", "https://it-berufe-podcast.de/einhaltung-der-vortragszeit-15-minuten-bei-der-projektpraesentation/", "https://www.akademie.de/wissen/powerpoint-vortragszeit-stoppen", "https://seths.blog/2018/07/generous-assertions/"],
+      "explainsCompetences": ["c_dieVorgegebeneZeitEinhalten"]
     },
     {
       "id": "lle_aufmerksamkeitGenerieren",
